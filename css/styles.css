@@ -79,3 +79,6 @@ h2 {
     color: #210203;
     text-decoration: none;
 }
+a:hover {
+    color: white;
+  }
